@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ulise\\source\\repos\\InventHIBA\\InventHIBA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B34BF6-50E4-4DA7-B841-DA72325144B5}|AdvanceTEHIBA\\AdvanceTEHIBA.aiproj|C:\\Users\\ulise\\source\\repos\\InventHIBA\\InventHIBA\\AdvanceTEHIBA\\AdvanceTEHIBA.aip||{AE40A4D1-A614-4A08-B9E2-B74E011783ED}",
+      "RelativeMoniker": "D:0:0:{B2B34BF6-50E4-4DA7-B841-DA72325144B5}|AdvanceTEHIBA\\AdvanceTEHIBA.aiproj|solutionrelative:AdvanceTEHIBA\\AdvanceTEHIBA.aip||{AE40A4D1-A614-4A08-B9E2-B74E011783ED}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7BDE50-C62E-475D-A783-2812669FF8A9}|InventHIBA\\InvenTEHIBA.vbproj|c:\\users\\ulise\\source\\repos\\inventhiba\\inventhiba\\inventhiba\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4C7BDE50-C62E-475D-A783-2812669FF8A9}|InventHIBA\\InvenTEHIBA.vbproj|solutionrelative:inventhiba\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdvanceTEHIBA.aip",
+              "DocumentMoniker": "C:\\Users\\ulise\\source\\repos\\InventHIBA\\InventHIBA\\AdvanceTEHIBA\\AdvanceTEHIBA.aip",
+              "RelativeDocumentMoniker": "AdvanceTEHIBA\\AdvanceTEHIBA.aip",
+              "ToolTip": "C:\\Users\\ulise\\source\\repos\\InventHIBA\\InventHIBA\\AdvanceTEHIBA\\AdvanceTEHIBA.aip",
+              "RelativeToolTip": "AdvanceTEHIBA\\AdvanceTEHIBA.aip",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJBSURBVDhPlZRfSFNhFMB/23pILoIJ2Z\u002BHZG8VMTD21PDBovWUcclMLDQIwj0UZQR76kWIITKkl1sEEtUiMpoMxBA1GtwiKrSBRRCMMWov2Z/ZGLi19eB3t7O7FvqD3e/snLMf3zfudxwIciH3PcADzAELQFwLJn/Lnv9SLpcd8nsu5M4AO0WqCLxW8gXgpRZMrol6HRVhLuTeB3yoLdexev5r0JMutHmBKdPQi/YGp4iPiLgRy\u002BlCmx\u002BYBBZ9gajX3rARYR6YUEefBw6r/AEg7gtEu2Wzg/XjOoFvwDZZVAT8qfDuVtfq/EDLTGZ8pfcV0CrqeaDTNPR3iB0etMl\u002BAgUVfwZOf//TfHN8pfe9TQbQBEz4AlEXQtglGu73pEeO3flx3At8BEZn24evzLYPXwIeiz6JB\u002BhGCIvAFxXPZEva3cls11VgCugApoFOYLnqqOMMltCfCjf7U\u002BELn9b2dGRL2hLgGGx5NgYMiB/MmYY\u002BCkRETnIIscPrwPTFzOU3PemRF8DeyK\u002Bj\u002B3OlrSeAa8BT4K3qvV111LADIXSpdQuwHaBYdj3S0zeatGByTAsmT2rBpPUSl9Vqx1l5AJnaWoUhe6JBDsvhAPAFog\u002BsP/UfPARuqXgI6LfVLSKmoZ\u002B1dvjEVpT0A3H1aSTDcljCGJCorW\u002BKhHKsC01DLwHn1DXaLHlgUDmqw8E09EWgb5PSPNBnGvqSlZDTBtPQY\u002BpGbOT4CTUUYjJZM7EtfIGoU93NU\u002Bqe71KlDPBczcOYdUzJX2Iar\u002BcVeP9GAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-20T20:11:02.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ulise\\source\\repos\\InventHIBA\\InventHIBA\\InventHIBA\\Form1.vb",
+              "RelativeDocumentMoniker": "InventHIBA\\Form1.vb",
+              "ToolTip": "C:\\Users\\ulise\\source\\repos\\InventHIBA\\InventHIBA\\InventHIBA\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "InventHIBA\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T18:25:30.488Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
